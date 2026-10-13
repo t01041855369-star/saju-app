@@ -1,0 +1,9 @@
+{
+  "name": "saju-ai-app",
+  "version": "1.0.0",
+  "description": "AI 사주 상담 웹 서비스 (만세력 엔진 + OpenAI 연동, 의존성 없음)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test/verify.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
